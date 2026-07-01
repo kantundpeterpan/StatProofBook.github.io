@@ -22,7 +22,7 @@ sources:
     url: "https://arxiv.org/abs/1611.01439"
 
 proof_id: "P181"
-shortcut: "dir-ep"
+shortcut: "dir-probexc"
 username: "JoramSoch"
 ---
 
